@@ -1,3 +1,6 @@
 node_modules
 /test
+<<<<<<< HEAD
 .env
+=======
+>>>>>>> f165ae3 (segundo commit)
